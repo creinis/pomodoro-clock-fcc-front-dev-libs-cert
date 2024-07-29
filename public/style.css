@@ -10,7 +10,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(41, 69, 193);
+    background-color: rgb(29, 50, 140);
   
   }
   
@@ -21,7 +21,7 @@
   
   .container {
     min-width: 320px;
-    border: 5px double darkgreen;
+    border: 5px double black;
     border-radius: 20px;
   }
   
@@ -44,7 +44,7 @@
     align-items: center;
     font-size: 1.5rem;
     text-align: center;
-    border: 2px solid darkgreen;
+    border: 2px solid black;
     border-radius: 20px;
     padding: 10px;
     margin: 10px;
@@ -71,7 +71,7 @@
     justify-content: space-around;
     font-size: 1.5rem;
     text-align: center;
-    border: 2px solid darkgreen;
+    border: 2px solid black;
     border-radius: 20px;
     padding: 20px;
     margin: 20px;
@@ -84,7 +84,7 @@
   
   a {
     font-size: 2rem;
-    background-color: darkcyan;
+    background-color: rgb(29, 50, 140);
     font-weight: bolder;
   }
   
